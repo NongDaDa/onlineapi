@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "server": [
     {
-      "id": 1,
-      "title": "hello"
+      "ServiceAddress": "127.0.0.1",
+      "ServiceAddress": "8080"
+    },{
+      "ServiceAddress": "localhost",
+      "ServiceAddress": "8081"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
