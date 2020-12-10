@@ -1,9 +1,11 @@
 {
   "server": [
     {
+      "id":2,
       "ServiceAddress": "127.0.0.1",
       "ServicePort": 8080
     },{
+      "id":1,
       "ServiceAddress": "localhost",
       "ServicePort": 8081
     }
