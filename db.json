@@ -2,10 +2,10 @@
   "server": [
     {
       "ServiceAddress": "127.0.0.1",
-      "ServiceAddress": "8080"
+      "ServicePort": 8080
     },{
       "ServiceAddress": "localhost",
-      "ServiceAddress": "8081"
+      "ServicePort": 8081
     }
   ]
 }
